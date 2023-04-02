@@ -11,3 +11,6 @@ Red -> show average strength of password
 yellow -> show weak password strength
 
 There is a copy button use to copy the random password and paste to anywhere.
+
+
+![Screenshot (71)](https://user-images.githubusercontent.com/107209209/229341890-b012483e-78d9-4625-b855-7ab10e252ecf.png)
